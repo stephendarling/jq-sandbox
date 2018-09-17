@@ -1,5 +1,5 @@
 # more info available here http://www.compciv.org/recipes/cli/jq-for-parsing-json/
-# set the filename 
+# set the filename as a variable
 file=config/config.json
 
 # return first element in an array
